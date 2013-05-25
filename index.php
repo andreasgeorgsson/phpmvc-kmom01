@@ -20,10 +20,12 @@ $data['main'] = <<<EOD
 </figure>
 </a>
 
+<div id="report">
 <p>
 Jag heter Andréas och är 27 år, bor i Malmö med tjej och 2 hundar. Kommer ursprungligen från Ystad, är Malmöbo sen 2005.
 Jobbat inom logistik 2006-2011. Fr.om. HT 2010 har jag nästan uteslutande studerat. 
 </p>
+
 <p>
 Blev mest diverse kurser men HT2011->VT2012 gick jag YH-utbildningen Programmerare Mobila Applikationer hos 
 JB Kompetens i Halmstad, vilket resulterade i att jag idag är jag Androidutvecklare i Helsingborg 
@@ -33,7 +35,7 @@ och kör med enskild firma vid sidan om.
 <p>
 Just nu är det fullt upp, hoppas hinna med allt som göras!
 </p>
-
+</div>
 {$anteByline}
 
 EOD;
