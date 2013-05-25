@@ -1,11 +1,11 @@
- <?php
+<?php
 /**
  * An empty page to show off how it looks.
  */
 include("config.php");
 
 // Create the data array which is to be used in the template file.
-$data['title'] = "Redovisningstexted";
+$data['title'] = "Redovisningstexter";
 $data['meta_description'] = "Alla redovisningstexter samlade på en sida.";
 $data['main'] = <<<EOD
 <h1>Redovisning</h1>
