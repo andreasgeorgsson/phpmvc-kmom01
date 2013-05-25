@@ -28,8 +28,8 @@ Jobbat inom logistik 2006-2011. Fr.om. HT 2010 har jag nästan uteslutande stude
 
 <p>
 Blev mest diverse kurser men HT2011->VT2012 gick jag YH-utbildningen Programmerare Mobila Applikationer hos 
-JB Kompetens i Halmstad, vilket resulterade i att jag idag är jag Androidutvecklare i Helsingborg 
-och kör med enskild firma vid sidan om.
+JB Kompetens i Halmstad, vilket resulterade i att jag idag arbetar heltid som Androidutvecklare i Helsingborg 
+och kör med enskild firma vid sidan om. Och just det, studierna..
 </p>
 
 <p>
