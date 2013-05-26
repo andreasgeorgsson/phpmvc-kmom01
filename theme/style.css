@@ -96,9 +96,10 @@ background-attachment:fixed; background-repeat:repeat;
   border:2px solid #999;
 }
 #navbar a {padding:6px 8px;text-decoration:none;border:2px solid transparent;color:#fff;}
-#navbar a:hover,
-#navbar a.selected
-{background:#999;border:2px solid #666;}
+#navbar a:hover, #navbar a.selected {background:#999;border:2px solid #666; }
+
+#above a { color: #FFFFFF; }
+#above a:hover { color: #3E748B; }
 
 
 /**
@@ -113,10 +114,8 @@ div#report { width: 70%; }
 /**
  * Links
  */
-a,
-a:visited {
-  color:#A84C00;
-}
+a { color: #3e748b; text-decoration: underline; }
+a:hover { color: #ffc000; text-decoration: none; }
 
 
 /**

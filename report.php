@@ -10,6 +10,7 @@ $data['meta_description'] = "Alla redovisningstexter samlade på en sida.";
 $data['main'] = <<<EOD
 <h1>Redovisning</h1>
 
+<!-- KMOM 01 -->
 <h2>Kmom01: En boilerplate</h2>
 <div id="report">
 <p>
@@ -31,8 +32,30 @@ Versionshantering är guld.
 <b>Utvecklingsmiljö:</b><br/>
 MAC OS X Lion, Aptana Studio, FileZilla, MAMP, Firefox, Tower.
 </p>
+<hr/>
 
+<!-- KMOM 02 -->
 <h2>Kmom02: Grunden till ett MVC ramverk</h2>
+<p>
+Jag döpte mitt ramverk till Paw. Tänkte först köra på något "Orcish" namn eftersom ramverket ska vara brutalt effektivt som en Orc. Men då deras namn är omöjliga att komma ihåg så blev det Paw. Ramverket ska inte vara större än nödvändigt men ändå ge ett avtryck.
+</p>
+<p>Det blev inga avsteg från tutorialen för min del, den var massiv.</p>
+<p>
+Jag klonade ner senaste Lydia och drog en span, jag tycker att strukturen verkar riktigt schyst!
+</p>
+<p>
+MVC hade jag ingen större koll på innan, har hört talas om det men bara fått det löst förklarat,  så fann "MVC & Ramverk"-pdf'en mycket intressant.
+</p>
+<p>
+Gjorde inte extrauppgiften. Jag har nog inte riktigt pluggat så mycket på den här uppgiften som jag borde men jag föredrar att hugga i när det behövs och lär mig då. Vid behov går jag tillbaks.
+</p>
+
+<p>
+<a href="http://www.student.bth.se/~lage12/phpmvc/kmom02/developer">Testa Paw</a>
+<a href="https://github.com/andreasgeorgsson/phpmvc-kmom02.git">Paw på Github</a>
+</p>
+
+<!-- KMOM 03 -->
 </div>
 EOD;
 

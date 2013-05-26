@@ -12,10 +12,8 @@ if (!defined('__DIR__')) {
 }
 
 // The contents of the kmoms navlinks
-$data['navkmom'] = array('kmom01' => array('text' => 'kmom01', 'url' => false), );
+$data['navkmom'] = array('kmom01' => array('text' => 'kmom01', 'url' => false), 
+'kmom02' => array('text' => 'kmom02', 'url' => 'http://www.student.bth.se/~lage12/phpmvc/kmom02/'), );
 
 // The contents of the navbar
-$data['navbar'] = array('index' => array('text' => 'Me', 'url' => 'index.php'),
-	'report' => array('text' => 'Redovisning', 'url' => 'report.php'),
-	'empty' => array('text' => 'Tom sida', 'url' => 'empty.php'),
-	'viewsource' => array('text' => 'Källkod', 'url' => 'viewsource.php'), );
+$data['navbar'] = array('index' => array('text' => 'Me', 'url' => 'index.php'), 'report' => array('text' => 'Redovisning', 'url' => 'report.php'), 'empty' => array('text' => 'Tom sida', 'url' => 'empty.php'), 'viewsource' => array('text' => 'Källkod', 'url' => 'viewsource.php'), );
