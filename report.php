@@ -28,15 +28,12 @@ Versionshantering är guld.
 </p>
 
 <p>
-<b>Utvecklingsmiljö:</b><br>
+<b>Utvecklingsmiljö:</b><br/>
 MAC OS X Lion, Aptana Studio, FileZilla, MAMP, Firefox, Tower.
 </p>
 
 <h2>Kmom02: Grunden till ett MVC ramverk</h2>
-<p>
-</p>
 </div>
-
 EOD;
 
 // Hand over to the template engine.

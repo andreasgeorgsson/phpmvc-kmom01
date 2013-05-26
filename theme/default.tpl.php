@@ -10,7 +10,7 @@
 
   <!-- Use the .htaccess and remove these lines to avoid edge case issues.
        More info: h5bp.com/i/378 -->
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <!--<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">-->
 
   <title><?=$title?></title>
   <meta name="description" content="<?=$meta_description?>">
@@ -28,9 +28,9 @@
        Modernizr enables HTML5 elements & feature detects for optimal performance.
        Create your own custom Modernizr build: www.modernizr.com/download/ -->
   <script src="js/libs/modernizr-2.5.0.min.js"></script>
-  <style>
-    <?=$style?>
-  </style>
+	<style>
+		<?=$style?>
+	</style>
 </head>
 <body>
   <!-- Prompt IE 6 users to install Chrome Frame. Remove this if you support IE 6.
@@ -57,7 +57,7 @@
 
   <footer id="footer">
 <pre>
-&#11089;&#11089;&#11089; ante &#11089;&#11089;&#11089;
+&#11090; &#11090; &#11090; ante &#11090; &#11090; &#11090;
 </pre>
 
     <p>&#169; Andréas Georgsson</p>

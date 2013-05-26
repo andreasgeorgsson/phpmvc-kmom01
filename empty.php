@@ -10,10 +10,8 @@ $data['meta_description'] = "En mallsida som visar hur jag integrerar med HTML5B
 $data['main'] = <<<EOD
 <h1>Mall</h1>
 
-<p>Här skriver man nåt vackert. Bara för att visa hur en tom sida kan se ut. 
-<a href="viewsource.php?dir=&file=empty.php#file">Kolla källkoden 
-för detaljer</a>.</p>
-
+<p>Tom sida.</p>
+<p><a href="viewsource.php?dir=&amp;file=empty.php#file">Källkod</a></p>
 EOD;
 
 // Hand over to the template engine.
